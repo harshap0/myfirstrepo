@@ -1,21 +1,13 @@
-# Hi, I'm Harsha Patel 👋
+# My First Repository
 
-🚀 Open Source Contributor (GSSoC 2026)
-💻 Python Developer
-🎓 B.Tech Student at Parul University
+This is my first GitHub repository created while learning Git and GitHub.
 
-## Tech Stack
-- Python
-- JavaScript
-- React
-- FastAPI
-- Git & GitHub
+## What I Learned
+- Creating repositories
+- Using GitHub README files
+- Making commits
+- Managing branches
+- Open Source contribution basics
 
-## Current Goals
-- Contribute to Open Source
-- Build AI Projects
-- Improve Backend Development Skills
-
-## Connect
-LinkedIn: your-link
-Email: patelharsha371@gmail.com
+## Author
+Harsha Patel
